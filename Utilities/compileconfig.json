@@ -1,0 +1,16 @@
+{
+	"links" : {
+		"majors" : "https://catalog.usm.edu/content.php?catoid=35&navoid=2243",
+		"courses" : "https://catalog.usm.edu/content.php?catoid=35&navoid=2242"
+	},
+	"config" : {
+		"get_majors" : true,
+		"plot_major_retrieval" : true,
+		"plot_course_retrieval" : true,
+		"get_semester_info" : true
+	},
+	"general" : {
+		"year" : "2025",
+		"semester" : "spring"
+	}
+}

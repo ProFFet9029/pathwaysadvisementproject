@@ -1,0 +1,488 @@
+{
+    "Sustainability Studies BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17801",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17802"
+    },
+    "Biological Sciences (Biology Education) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17500",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17535"
+    },
+    "Biological Sciences (Biomedical Sciences) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17644"
+    },
+    "Biological Sciences (Conservation Biology) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17502",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17534"
+    },
+    "Biological Sciences (Microbiology) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17499",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17536"
+    },
+    "Biological Sciences BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17503",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17538"
+    },
+    "Geography BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17471",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17583"
+    },
+    "Geology BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17470",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17586"
+    },
+    "Medical Laboratory Science (MLT to MLS completion) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17618",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17619"
+    },
+    "Medical Laboratory Science BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17458",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17575"
+    },
+    "Sustainability Sciences (Coastal System Dynamics) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17804",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17805"
+    },
+    "Cybersecurity BAS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17806",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17808"
+    },
+    "Computer Engineering BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17640",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17641"
+    },
+    "Computer Science (Applied Computer Science) BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17633",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17634"
+    },
+    "Computer Science BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17492",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17544"
+    },
+    "Information Technology BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17489",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17545"
+    },
+    "Architectural Engineering Technology BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17488",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17550"
+    },
+    "Construction Management BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17486",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17551"
+    },
+    "Interior Design BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17480",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17554"
+    },
+    "Criminal Justice (Juvenile Justice) BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17477",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17555"
+    },
+    "Criminal Justice BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17479",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17557"
+    },
+    "Forensics (Anthropology) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17476",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17558"
+    },
+    "Forensics (Biological Sciences) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17475",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17560"
+    },
+    "Forensics (Chemistry and Biochemistry) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17473",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17567"
+    },
+    "Forensics (Criminal Justice) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17474",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17568"
+    },
+    "English (English Education) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17389",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17562"
+    },
+    "English BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17388",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17563"
+    },
+    "History (Social Studies Education) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17395",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17571"
+    },
+    "History BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17394",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17572"
+    },
+    "Philosophy (Pre-Law) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17622",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17623"
+    },
+    "Philosophy BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17412",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17606"
+    },
+    "Interdisciplinary Studies BIS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17396",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17578"
+    },
+    "Liberal Studies BLS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17629",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17632"
+    },
+    "Chemistry (ACS-Certified Chemistry) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17496",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17540"
+    },
+    "Chemistry (Biochemistry) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17494",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17542"
+    },
+    "Chemistry (Chemistry Education) BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17493",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17543"
+    },
+    "Mathematics (Mathematics Education) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17466",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17588"
+    },
+    "Mathematics BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17467",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17589"
+    },
+    "Physics (Physics Education) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17462",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17590"
+    },
+    "Physics BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17463",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17591"
+    },
+    "Communication Studies BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17384",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17549"
+    },
+    "Digital Journalism BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17402",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17582"
+    },
+    "Media and Entertainment Arts (Film) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17398",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17581"
+    },
+    "Strategic Communication BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17397",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17533"
+    },
+    "Communication Studies BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17385",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17556"
+    },
+    "Media and Entertainment Arts (Media and Entertainment Arts Management) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17400",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17593"
+    },
+    "Media and Entertainment Arts (Sound and Recording Arts) BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17401",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17594"
+    },
+    "Media and Entertainment Arts (Video Arts) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17399",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17580"
+    },
+    "Music BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17403",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17595"
+    },
+    "Music (Jazz Studies) BM": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17404",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17609"
+    },
+    "Music (Performance-Percussion) BM": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17405",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17610"
+    },
+    "Music (Performance-Piano) BM": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17406",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17611"
+    },
+    "Music (Performance-Strings) BM": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17407",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17612"
+    },
+    "Music (Performance-Voice) BM": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17408",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17613"
+    },
+    "Music (Performance-Wind Instrument) BM": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17409",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17614"
+    },
+    "Music Education (Choral Licensure) BMEd ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17410",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17605"
+    },
+    "Music Education (Choral Pedagogy) BMEd": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17651",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17652"
+    },
+    "Music Education (Instrumental Licensure) BMEd ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17411",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17579"
+    },
+    "Music Education (Instrumental Pedagogy) BMEd ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17649",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17650"
+    },
+    "Marine Biology BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17497",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17539"
+    },
+    "Marine Science (Hydrography) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17630",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17631"
+    },
+    "Marine Science BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17469",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17587"
+    },
+    "Ocean Engineering BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17642",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17643"
+    },
+    "Art BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17380",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17541"
+    },
+    "Theatre BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17416",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17602"
+    },
+    "Art (Drawing and Painting) BFA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17381",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17546"
+    },
+    "Art (Graphic Design) BFA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17382",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17547"
+    },
+    "Art (Sculpture) BFA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17383",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17548"
+    },
+    "Dance (Dance Education) BFA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17386",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17559"
+    },
+    "Dance (Performance and Choreography) BFA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17387",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17561"
+    },
+    "Theatre (Acting) BFA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17417",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17603"
+    },
+    "Theatre (Design and Technology) BFA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17418",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17604"
+    },
+    "Polymer Science and Engineering BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17460",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17592"
+    },
+    "Anthropology BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17378",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17532"
+    },
+    "Legal Studies (Paralegal) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17414",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17608"
+    },
+    "Legal Studies (Pre-Law) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17624",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17625"
+    },
+    "Political Science (Pre-Law) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17620",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17621"
+    },
+    "Political Science BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17415",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17601"
+    },
+    "World Languages (French) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17390",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17564"
+    },
+    "World Languages (Language Education) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17391",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17565"
+    },
+    "World Languages (Spanish) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17392",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17566"
+    },
+    "World Languages (Two Languages) BA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17393",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17569"
+    },
+    "Applied Economics BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17413",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17607"
+    },
+    "Political Science BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17616",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17617"
+    },
+    "Sociology BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17379",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17537"
+    },
+    "Accounting BSBA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17424",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17513"
+    },
+    "Finance BSBA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17426",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17515"
+    },
+    "Applied Technology BAS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17472",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17570"
+    },
+    "Industrial Engineering Technology (Logistics) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17482",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17552"
+    },
+    "Industrial Engineering Technology BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17484",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17553"
+    },
+    "Organizational Leadership BSBA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17812",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17814"
+    },
+    "Business Administration (Entrepreneurship) BSBA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17427",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17516"
+    },
+    "Business Administration (General Business) BSBA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17428",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17517"
+    },
+    "Human Resources Management BSBA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17431",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17520"
+    },
+    "International Business BSBA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17429",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17518"
+    },
+    "Management BSBA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17430",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17519"
+    },
+    "Healthcare Marketing BSBA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17433",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17522"
+    },
+    "Hospitality and Tourism Management BSBA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17425",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17514"
+    },
+    "Marketing BSBA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17434",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17523"
+    },
+    "Merchandising BSBA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17432",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17521"
+    },
+    "Sport Management BSBA ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17457",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17600"
+    },
+    "Child and Family Sciences (Child Development) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17437",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17526"
+    },
+    "Child and Family Sciences (Family Sciences) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17438",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17527"
+    },
+    "Elementary Education BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17439",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17528"
+    },
+    "Fitness and Nutrition BS Degree ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=18113",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=18115"
+    },
+    "Kinesiology (Exercise Science) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17452",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17598"
+    },
+    "Kinesiology (K-12 Physical Education Licensure) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17453",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17599"
+    },
+    "Nutrition and Dietetics (Didactic Program in Dietetics) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17459",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17576"
+    },
+    "Sport Coaching BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17456",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17615"
+    },
+    "Library and Information Science BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17441",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17530"
+    },
+    "Psychology BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17442",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17531"
+    },
+    "Social Work BSW": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17461",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17585"
+    },
+    "Allied Health BAS ": {
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17577"
+    },
+    "Kinesiotherapy BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17454",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17597"
+    },
+    "Public Health BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17451",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17574"
+    },
+    "Recreational Therapy BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17455",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17596"
+    },
+    "Sports Medicine BS": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17816",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17817"
+    },
+    "Health Sciences (Health Care Studies) BS ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17653",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17654"
+    },
+    "Nursing (RN-BSN) BSN ": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17468",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17524"
+    },
+    "Nursing BSN": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17465",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17525"
+    },
+    "Speech Pathology and Audiology BA": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17464",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17584"
+    },
+    "University Studies BUS Degree Requirements (120 hours)": {
+        "Degree Requirements": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17648&returnto=2243",
+        "Semester Guide": "https://catalog.usm.edu/preview_program.php?catoid=35&poid=17648&returnto=2243"
+    }
+}
